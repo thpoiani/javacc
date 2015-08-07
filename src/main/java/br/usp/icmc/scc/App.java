@@ -1,10 +1,10 @@
-package br.com.thpoiani;
+package br.usp.icmc.scc;
 
 /**
  * Hello world!
  *
  */
-public class App 
+public class App
 {
     public static void main( String[] args )
     {
